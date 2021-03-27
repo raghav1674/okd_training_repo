@@ -1,6 +1,7 @@
 <?php
 
-print "Hello";
+print "Hello\n";
 print "welcome to OCP second !!";
+
 
 ?>
